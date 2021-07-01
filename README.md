@@ -3,9 +3,7 @@
 
 <pre>
 <code>
-/*
- * Program for Live Covid 19 data Tracker for India
- */
+
 #include<ESP8266WiFi.h>
 #include<ESP8266HTTPClient.h>
 #include<Wire.h>
