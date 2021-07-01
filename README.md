@@ -124,6 +124,3 @@ void loop() {
 
 <img src = "https://github.com/abhisheksharma1310/Live_covid-19_data_on_16x2_LCD/blob/main/Worldometer1.jpg">
 
-<img src = "">
-
-<img src = "">
