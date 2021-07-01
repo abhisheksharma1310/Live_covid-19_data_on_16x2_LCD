@@ -12,7 +12,7 @@ const char* ssid = "Honor 9 Lite";
 const char* password = "abhishek11";
 const char* host = "api.thingspeak.com";
 const int httpPort = 80;
-const char* url = "/apps/thinghttp/send_request?api_key=HL2UUNSV2522Q14C";
+const char* url = "/apps/thinghttp/send_request?api_key=<Enter your API Key>";
 HTTPClient http;
 String cases, death, recover;
 void setup() {
